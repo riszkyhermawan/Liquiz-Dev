@@ -1,4 +1,4 @@
-# Ideas of Startup Gimang
+# Ideas of Startup 
 <!-- - Jual beli TCG / NFT -->
 <!-- - Sewa 3D Printing -->
 <!-- - Perpus Online -->
